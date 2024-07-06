@@ -28,8 +28,8 @@ header{
 }
 
 header nav{
-    width: 100%;
-}
+   width: 100%;
+} 
 
 header nav ul{
     width: 100%;
@@ -167,6 +167,13 @@ footer:hover{
     footer{
         width: 100%;
     }
+
+    header nav ul li a{
+        padding: 10px 15px;
+        font-size: 10px;
+    }
+
+    
 }
 
 
