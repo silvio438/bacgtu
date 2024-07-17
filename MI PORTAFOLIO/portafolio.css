@@ -313,8 +313,14 @@ footer .redes-sociales .yutube:hover{
 
 @media screen and (max-width: 500px){
     header .contenedor_texto .texto .nombre{
-        font-size: 35px;
+        font-size: 34px;
     }
+
+    header .menu a{
+        font-size: 12px;
+        
+    }
+
 
     header .contenedor_texto .texto .profesion{
         font-size: 18px;
