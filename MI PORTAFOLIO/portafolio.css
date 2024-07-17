@@ -333,3 +333,15 @@ footer .redes-sociales .yutube:hover{
 }
 
 
+@media screen and (max-width: 400px){
+
+    header .menu a{
+        font-size: 12px;
+        
+    }
+
+
+   
+}
+
+
